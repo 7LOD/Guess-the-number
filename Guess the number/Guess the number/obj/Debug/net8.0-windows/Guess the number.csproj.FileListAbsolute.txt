@@ -1,0 +1,16 @@
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\bin\Debug\net8.0-windows\Guess the number.exe
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\bin\Debug\net8.0-windows\Guess the number.deps.json
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\bin\Debug\net8.0-windows\Guess the number.runtimeconfig.json
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\bin\Debug\net8.0-windows\Guess the number.dll
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\bin\Debug\net8.0-windows\Guess the number.pdb
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess_the_number.Form1.resources
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.csproj.GenerateResource.cache
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.AssemblyInfoInputs.cache
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.AssemblyInfo.cs
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.csproj.CoreCompileInputs.cache
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.dll
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\refint\Guess the number.dll
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.pdb
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.genruntimeconfig.cache
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\ref\Guess the number.dll
