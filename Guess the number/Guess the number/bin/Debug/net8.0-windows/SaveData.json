@@ -1,0 +1,23 @@
+{
+  "Difficulty": {
+    "Easy": {
+      "Difficulty": "Easy",
+      "Score": 0,
+      "Streak": 0,
+      "Win": 0,
+      "Loss": 0,
+      "WinRate": 0.0,
+      "Attempt": 0
+    }
+  },
+  "TimeSave": {
+    "Easy": {
+      "Difficulty": "Easy",
+      "Score": 0,
+      "Streak": 0,
+      "Live": 7,
+      "HideNumber": 32,
+      "Tips": null
+    }
+  }
+}
