@@ -14,3 +14,6 @@ C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\
 C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.pdb
 C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.genruntimeconfig.cache
 C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\ref\Guess the number.dll
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess the number.csproj.AssemblyReference.cache
+C:\Users\ukhal\Desktop\Проект\Guess the number\Guess the number\obj\Debug\net8.0-windows\Guess th.D88F2BC5.Up2Date
